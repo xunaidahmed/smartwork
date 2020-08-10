@@ -4,7 +4,7 @@
 doskey ip=ipconfig
 doskey ls=dir
 doskey pwd=cd
-doskey p7=D: && cd D:\Softwares\Complete-Installs\xampp7\htdocs\php7
+doskey p7=D: && cd Drive\xampp7\htdocs\php7
 
 
 ::Laravel Keys
